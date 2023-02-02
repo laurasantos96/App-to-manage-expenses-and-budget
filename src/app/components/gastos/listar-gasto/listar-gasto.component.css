@@ -1,0 +1,14 @@
+.sizeAlert{
+    font-size: 1.2rem;
+}
+
+.rounded-pill{
+    background-color: #81beff;
+    background-image: linear-gradient(62deg, #a2cfff 0%, #e8cfff 100%);
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 1.0rem;
+}
